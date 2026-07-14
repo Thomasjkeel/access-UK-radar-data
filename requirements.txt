@@ -3,7 +3,6 @@ geopandas
 numpy
 pyproj
 s3fs
-xarray
 cartopy
 botocore
 xarray[io]
