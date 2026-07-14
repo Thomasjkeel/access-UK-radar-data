@@ -11,9 +11,9 @@ This repo goes through how to load in and subset radar data from the following t
 
 | Dataset | Location | Python Notebook |
 | ------- | -------- | --------------- |
-| Met Office UK Radar Observations  | [Registry of Open Data on AWS](https://registry.opendata.aws/met-office-uk-radar-observations/) | [aws_radar_subset_workflow.ipynb](https://github.com/Thomasjkeel/access-UK-radar-data/blob/main/MORadarObs-OpenDataRegistry/aws_radar_subset_workflow.ipynb) |
-| Met Office Rain Radar Data from the NIMROD System | [CEDA Archive](https://catalogue.ceda.ac.uk/uuid/82adec1f896af6169112d09cc1174499/) | [read_in_NIMROD_radar_data.ipynb](https://github.com/Thomasjkeel/access-UK-radar-data/blob/main/NIMROD-CEDAArchive/read_in_NIMROD_radar_data.ipynb) |
-| Met Office Rain Radar Data from the NIMROD System | [JASMIN](https://www.jasmin.ac.uk/about/) | [read_in_NIMROD_radar_data.ipynb](https://github.com/Thomasjkeel/access-UK-radar-data/blob/main/NIMROD-CEDAArchive/read_in_NIMROD_radar_data.ipynb) |
+| Met Office UK Radar Observations composites  | [Registry of Open Data on AWS](https://registry.opendata.aws/met-office-uk-radar-observations/) | [aws_radar_subset_workflow.ipynb](https://github.com/Thomasjkeel/access-UK-radar-data/blob/main/from_OpenDataRegistry/aws_radar_subset_workflow.ipynb) |
+| Met Office Rain Radar Data from the NIMROD System | [CEDA Archive](https://catalogue.ceda.ac.uk/uuid/82adec1f896af6169112d09cc1174499/) | [read_in_NIMROD_radar_data.ipynb](https://github.com/Thomasjkeel/access-UK-radar-data/blob/main/from_JASMIN/read_in_NIMROD_radar_data.ipynb) |
+| Met Office Rain Radar Data from the NIMROD System | [JASMIN](https://www.jasmin.ac.uk/about/) | [read_in_NIMROD_radar_data.ipynb](https://github.com/Thomasjkeel/access-UK-radar-data/blob/main/from_CEDA/read_in_NIMROD_radar_data.ipynb) |
 
 
 ## About this work
