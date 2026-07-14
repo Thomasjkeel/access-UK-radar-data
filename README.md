@@ -5,6 +5,7 @@
 
 **Author:** [Tom Keel](https://github.com/Thomasjkeel).
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Thomasjkeel/access-UK-radar-data/HEAD)
 
 ## Description
 This repo goes through how to load in and subset radar data from the following three sources:
@@ -21,6 +22,8 @@ This work was carried as part of the UK Government funded [Floods and Droughts R
 
 
 ## How to run these notebooks
+<details>
+    <summary><i><b>If you are not intending to run these notebooks locally, please click here for running options.</i></b></b></summary>
 
 ### Google Colab
 **Google Account required**
@@ -46,3 +49,5 @@ Click the "Launch Binder" button at the top of the notebook. Please note that it
 - ```python -m ipykernel install --user --name fdricombo``` to install the 'kernel' (the Python executable) to your local user area
 - After, you can load the notebook you wish to run from the files panel on the left, selecting the just-installed kernel (called fdricombo) by clicking the text next to the small empty circle top right of the notebook, that says 'No Kernel' or 'Python' or similar, and selecting 'fdricombo' from the menu that appears. Note that it may take a few minutes to show up when first installing the kernel. 
 - Next time you want to run the notebook (or any Python notebook), you can just revisit the JASMIN notebook service, load the notebook, and it should pick up the environment with all the installed packages in it automatically.
+
+</details>
