@@ -1,0 +1,13 @@
+boto3
+geopandas
+numpy
+pyproj
+s3fs
+xarray
+cartopy
+matplotlib
+botocore
+xarray[io]
+rioxarray
+rasterio
+matplotlib
