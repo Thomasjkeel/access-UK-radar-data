@@ -8,10 +8,6 @@
 
 ## Description
 This repo goes through how to load in and subset radar data from the following three sources:
-1. Met Office Rain Radar Data from the NIMROD System from the CEDA Archive [link](https://catalogue.ceda.ac.uk/uuid/82adec1f896af6169112d09cc1174499/?q=&results_per_page=20&sort_by=title_desc&objects_related_to_uuid=82adec1f896af6169112d09cc1174499&page=3)   
-2. Met Office UK Radar Observations on a 2-year rolling archive from the Registry of Open Data on AWS [link](https://registry.opendata.aws/met-office-uk-radar-observations/)
-3. How to read NIMROD data from JASMIN
-
 
 | Dataset | Location | Python Notebook |
 | ------- | -------- | --------------- |
