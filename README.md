@@ -13,15 +13,19 @@ This repo goes through how to load in and subset radar data from the following t
 | Dataset | Location | Python Notebook |
 | ------- | -------- | --------------- |
 | Met Office UK Radar Observations composites  | [Registry of Open Data on AWS](https://registry.opendata.aws/met-office-uk-radar-observations/) | [aws_radar_subset_workflow.ipynb](https://github.com/Thomasjkeel/access-UK-radar-data/blob/main/from_OpenDataRegistry/aws_radar_subset_workflow.ipynb) |
-| Met Office Rain Radar Data from the NIMROD System | [CEDA Archive](https://catalogue.ceda.ac.uk/uuid/82adec1f896af6169112d09cc1174499/) | [read_in_NIMROD_radar_data.ipynb](https://github.com/Thomasjkeel/access-UK-radar-data/blob/main/from_JASMIN/read_in_NIMROD_radar_data.ipynb) |
+| Met Office Rain Radar Data from the NIMROD System | [CEDA Archive](https://catalogue.ceda.ac.uk/uuid/82adec1f896af6169112d09cc1174499/) | [read_in_NIMROD_radar_data.ipynb](https://github.com/Thomasjkeel/access-UK-radar-data/blob/main/from_CEDA/read_NIMROD_data_from_CEDA.ipynb) |
 | Met Office Rain Radar Data from the NIMROD System | [JASMIN](https://www.jasmin.ac.uk/about/) | [read_in_NIMROD_radar_data.ipynb](https://github.com/Thomasjkeel/access-UK-radar-data/blob/main/from_CEDA/read_in_NIMROD_radar_data.ipynb) |
 
+/home/tom-keel-ceh/Dev/UKCEH/access-UK-radar-data
 
 ## About this work
 This work was carried as part of the UK Government funded [Floods and Droughts Research Infrastructure (FDRI)](https://fdri.org.uk/) project. In this project we are improving access to radar datasets.
 
 
 ## How to run these notebooks
+### Requirements
+TODO: add table of package requirements
+
 <details>
     <summary><i><b>If you are not intending to run these notebooks locally, please click here for running options.</i></b></b></summary>
 
