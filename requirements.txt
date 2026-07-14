@@ -5,7 +5,6 @@ pyproj
 s3fs
 xarray
 cartopy
-matplotlib
 botocore
 xarray[io]
 rioxarray
