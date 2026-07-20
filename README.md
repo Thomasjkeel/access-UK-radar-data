@@ -23,6 +23,17 @@ This work was carried as part of the UK Government funded [Floods and Droughts R
 ## How to run these notebooks
 ### Requirements
 TODO: add table of package requirements
+- boto3
+- geopandas
+- numpy
+- pyproj
+- s3fs
+- cartopy
+- botocore
+- xarray[io]
+- rioxarray
+- rasterio
+- matplotlib
 
 <details>
     <summary><i><b>If you are not intending to run these notebooks locally, please click here for running options.</i></b></b></summary>
