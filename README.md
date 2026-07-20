@@ -22,7 +22,7 @@ This work was carried as part of the UK Government funded [Floods and Droughts R
 
 ## How to run these notebooks
 ### Requirements
-TODO: add versions
+TODO: add package versions
 - boto3
 - geopandas
 - numpy
