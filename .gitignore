@@ -2,5 +2,6 @@ __pycache__
 .venv/
 notebooks/from_file/NIMROD_UK_composite_1km/*
 !notebooks/from_file/NIMROD_UK_composite_1km/metoffice-c-band-rain-radar_uk_20231009_1km-composite.dat.gz.tar
+notebooks/from_cloud/output/
 formatted_NIMROD_data/
 ignored_data/
