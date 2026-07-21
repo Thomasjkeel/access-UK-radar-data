@@ -24,8 +24,8 @@ This work was carried as part of the UK Government funded [Floods and Droughts R
 | Package | version | Use |
 | ------- | ------- | --- |
 | numpy | | data |
-| matplotlib | | plotting |
 | xarray[io] | | data |
+| matplotlib | | plotting |
 | rioxarray | | spatial |
 | rasterio | | spatial |
 | geopandas | | spatial |
