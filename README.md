@@ -16,11 +16,11 @@ This repo goes through how to load in and subset radar data from the following t
 | from cloud | Met Office UK Radar Observations composites  | [Registry of Open Data on AWS](https://registry.opendata.aws/met-office-uk-radar-observations/) | [read_radar_data_from_open_data_registry.ipynb](https://github.com/Thomasjkeel/access-UK-radar-data/blob/main/notebooks/from_cloud/read_radar_data_from_open_data_registry.ipynb) |
 
 ## Gallery
-<p float="left">,
+<p float="left">
     <img src="https://raw.githubusercontent.com/Thomasjkeel/UKCEH_Summer_School/refs/heads/main/Workshop_4/content/polars_logo_icon_248809.png" alt="polars-logo" style="width:250px;"/>
     <img src="https://raw.githubusercontent.com/Thomasjkeel/UKCEH_Summer_School/refs/heads/main/Workshop_4/content/xarray-logo.png" alt="xarray-logo" style="width:250px;" />
 </p>
-<p float="left">,
+<p float="left">
     <img src="https://raw.githubusercontent.com/Thomasjkeel/UKCEH_Summer_School/refs/heads/main/Workshop_4/content/polars_logo_icon_248809.png" alt="polars-logo" style="width:250px;"/>
     <img src="https://raw.githubusercontent.com/Thomasjkeel/UKCEH_Summer_School/refs/heads/main/Workshop_4/content/xarray-logo.png" alt="xarray-logo" style="width:250px;" />
 </p>
