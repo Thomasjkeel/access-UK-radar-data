@@ -67,4 +67,4 @@ Click the "Launch Binder" button at the top of the notebook. Please note that it
 </details>
 
 ## About this work
-This work was carried as part of the UK Government funded [Floods and Droughts Research Infrastructure (FDRI)](https://fdri.org.uk/) project. In this project we are improving access to radar datasets.
+This work was carried as part of the UK Government funded [Floods and Droughts Research Infrastructure (FDRI)](https://fdri.org.uk/) project.
