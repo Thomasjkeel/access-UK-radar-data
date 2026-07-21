@@ -17,8 +17,8 @@ This repo goes through how to load in and subset radar data from the following t
 
 ## Gallery
 <p float="left">
-    <img src="https://raw.githubusercontent.com/Thomasjkeel/access-UK-radar-data/refs/heads/main/figures/UK_rain_from_radar_5min.png" alt="5min-mean" style="width:250px;"/>
-    <img src="https://raw.githubusercontent.com/Thomasjkeel/access-UK-radar-data/refs/heads/main/figures/UK_rain_from_radar_1h_mean.png" alt="1h-mean" style="width:250px;" />
+    <img src="https://raw.githubusercontent.com/Thomasjkeel/access-UK-radar-data/blob/heads/main/figures/UK_rain_from_radar_5min.png" alt="5min-mean" style="width:250px;"/>
+    <img src="https://raw.githubusercontent.com/Thomasjkeel/access-UK-radar-data/blob/heads/main/figures/UK_rain_from_radar_1h_mean.png" alt="1h-mean" style="width:250px;" />
 </p>
 <p float="left">
     <img src="https://raw.githubusercontent.com/Thomasjkeel/access-UK-radar-data/refs/heads/main/figures/UK_rain_from_radar_5min.png" alt="" style="width:250px;"/>
